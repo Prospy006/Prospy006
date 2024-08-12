@@ -4,7 +4,7 @@
 		About me <br>
 	<h1/>
 		"No fear. No hate. No anger." - Drift
-	<h3> Hello! I am Prospy006, a developer in his sweet sixteen. I'm pretty chill, so drop a message! <h3/>
+	<h3> Hello! I am Prospy006, a developer in his sixteens. I'm pretty chill, so drop a message! <h3/>
 		- 🧔🏽‍♂️ He/Him <br>
 		- 👾 Hobbies: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🤖 Obsession with transformers <br>
